@@ -3618,11 +3618,13 @@ body.search-is-visible {
   overflow: hidden;
   opacity: 0;
   visibility: hidden;
+  
 }
 
 .format-gallery .slider__slides.slick-initialized {
   opacity: 1;
   visibility: visible;
+  
 }
 
 /*# sourceMappingURL=main.css.map */
